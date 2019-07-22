@@ -1,4 +1,4 @@
-package com.js.rxjavaapplication.scheduler;
+package com.js.customrxjava.scheduler;
 
 import android.os.Handler;
 import android.os.Looper;

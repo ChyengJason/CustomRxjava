@@ -1,4 +1,4 @@
-package com.js.rxjavaapplication;
+package com.js.customrxjava;
 
 /**
  * Created by chengjunsen on 2019-07-22

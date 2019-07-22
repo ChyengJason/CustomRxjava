@@ -1,6 +1,4 @@
-package com.js.rxjavaapplication;
-
-import com.js.rxjavaapplication.CustomObserver;
+package com.js.customrxjava;
 
 /**
  * Created by chengjunsen on 2019-07-21

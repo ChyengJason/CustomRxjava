@@ -1,8 +1,8 @@
-package com.js.rxjavaapplication.observable;
+package com.js.customrxjava.observable;
 
-import com.js.rxjavaapplication.CustomEmitter;
-import com.js.rxjavaapplication.CustomObservableOnSubscribe;
-import com.js.rxjavaapplication.CustomObserver;
+import com.js.customrxjava.CustomEmitter;
+import com.js.customrxjava.CustomObservableOnSubscribe;
+import com.js.customrxjava.CustomObserver;
 
 /**
  * Created by chengjunsen on 2019-07-22

@@ -1,9 +1,9 @@
-package com.js.rxjavaapplication;
+package com.js.customrxjava;
 
-import com.js.rxjavaapplication.function.CustomBiFunction;
-import com.js.rxjavaapplication.function.CustomFunction;
-import com.js.rxjavaapplication.observable.CustomObservable;
-import com.js.rxjavaapplication.scheduler.CustomScheduler;
+import com.js.customrxjava.function.CustomBiFunction;
+import com.js.customrxjava.function.CustomFunction;
+import com.js.customrxjava.observable.CustomObservable;
+import com.js.customrxjava.scheduler.CustomScheduler;
 
 import org.junit.Test;
 

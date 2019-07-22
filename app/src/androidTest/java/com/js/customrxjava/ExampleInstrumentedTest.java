@@ -1,4 +1,4 @@
-package com.js.rxjavaapplication;
+package com.js.customrxjava;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

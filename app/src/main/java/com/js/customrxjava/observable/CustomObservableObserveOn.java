@@ -1,8 +1,8 @@
-package com.js.rxjavaapplication.observable;
+package com.js.customrxjava.observable;
 
-import com.js.rxjavaapplication.CustomObservableSource;
-import com.js.rxjavaapplication.CustomObserver;
-import com.js.rxjavaapplication.scheduler.CustomScheduler;
+import com.js.customrxjava.CustomObservableSource;
+import com.js.customrxjava.CustomObserver;
+import com.js.customrxjava.scheduler.CustomScheduler;
 
 /**
  * Created by chengjunsen on 2019-07-22

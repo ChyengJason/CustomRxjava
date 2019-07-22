@@ -1,4 +1,4 @@
-package com.js.rxjavaapplication.function;
+package com.js.customrxjava.function;
 
 /**
  * Created by chengjunsen on 2019-07-21

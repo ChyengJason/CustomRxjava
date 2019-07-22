@@ -1,8 +1,8 @@
-package com.js.rxjavaapplication.observable;
+package com.js.customrxjava.observable;
 
-import com.js.rxjavaapplication.CustomObservableSource;
-import com.js.rxjavaapplication.CustomObserver;
-import com.js.rxjavaapplication.function.CustomFunction;
+import com.js.customrxjava.CustomObservableSource;
+import com.js.customrxjava.CustomObserver;
+import com.js.customrxjava.function.CustomFunction;
 
 import java.util.ArrayList;
 import java.util.LinkedList;

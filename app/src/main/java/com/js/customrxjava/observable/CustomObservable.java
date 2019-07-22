@@ -1,12 +1,12 @@
-package com.js.rxjavaapplication.observable;
+package com.js.customrxjava.observable;
 
-import com.js.rxjavaapplication.CustomObservableOnSubscribe;
-import com.js.rxjavaapplication.CustomObservableSource;
-import com.js.rxjavaapplication.CustomObserver;
-import com.js.rxjavaapplication.function.CustomBiFunction;
-import com.js.rxjavaapplication.function.CustomFunction;
-import com.js.rxjavaapplication.function.CustomFunctions;
-import com.js.rxjavaapplication.scheduler.CustomScheduler;
+import com.js.customrxjava.CustomObservableOnSubscribe;
+import com.js.customrxjava.CustomObservableSource;
+import com.js.customrxjava.CustomObserver;
+import com.js.customrxjava.function.CustomBiFunction;
+import com.js.customrxjava.function.CustomFunction;
+import com.js.customrxjava.function.CustomFunctions;
+import com.js.customrxjava.scheduler.CustomScheduler;
 
 import java.util.Arrays;
 import java.util.List;
